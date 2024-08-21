@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: wheat; /* #F5DEB3 */
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.botin {
+    background-color: wheat;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #302e2e;
+}
+
+.botin img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    align-items: flex-start;
+}
+
+.botin button {
+    background-color: black; /* #000000 */
+    color: #FDE8E9; /* Light Pink */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.botin button:hover {
+    background-color: #F6AA1C; /* Orange (custom color, not in the original palette) */
+}
+
+#carrito {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: black; /* #000000 */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #F6AA1C; /* Orange (custom color, not in the original palette) */
+}
+
+#vaciarCarrito {
+    background-color: #dc3545;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#vaciarCarrito:hover {
+    background-color: #c82333;
+}
