@@ -1,0 +1,133 @@
+[
+    {
+        "id": "1",
+        "titulo": "Mercurial",
+        "imagen": "assets/nike/nike negro.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "Nike"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "2",
+        "titulo": "Lunar-2",
+        "imagen": "assets/nike/nike lunar 2.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "Nike"
+        },
+        "precio": 14000
+    },
+    {
+        "id": "3",
+        "titulo": "Top Sala",
+        "imagen": "assets/adidas/top sala blanco.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "Adidas"
+        },
+        "precio": 13000
+    },
+    {
+        "id": "4",
+        "titulo": "joma 3",
+        "imagen": "assets/joma/joma 3.jpg",
+        "categoria": {
+            "nombre": "Joma",
+            "id": "Joma"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "5",
+        "titulo": "joma 4",
+        "imagen": "assets/joma/joma 4.jpg",
+        "categoria": {
+            "nombre": "Joma",
+            "id": "Joma"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "6",
+        "titulo": "Top Flex",
+        "imagen": "assets/nike/nike blanco reac gato.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "Nike"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "7",
+        "titulo": "Top Flex",
+        "imagen": "assets/nike/lunar gato1.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "Nike"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "8",
+        "titulo": "Tiempo-amarillo",
+        "imagen": "assets/nike/tiempo amarillo.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "Nike"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "9",
+        "titulo": "Predator-2",
+        "imagen": "assets/adidas/predator 2.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "Adidas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "10",
+        "titulo": "Predator-1",
+        "imagen": "assets/adidas/predator 1.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "Adidas"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "11",
+        "titulo": "joma 2",
+        "imagen": "assets/joma/joma 2.webp",
+        "categoria": {
+            "nombre": "Joma",
+            "id": "Joma"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "12",
+        "titulo": "joma 5",
+        "imagen": "assets/joma/joma 5.webp",
+        "categoria": {
+            "nombre": "Joma",
+            "id": "Joma"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "13",
+        "titulo": "nike th",
+        "imagen": "assets/nike/nike th.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "Nike"
+        },
+        "precio": 12000
+    }
+    
+]
